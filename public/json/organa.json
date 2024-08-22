@@ -1,0 +1,31 @@
+[
+{
+    "id":1,
+    "name": "cafe",
+    "precio": 20,
+    "imagen":"imagen/product2.png",
+    "tipe":1
+},
+
+{
+    "id":2,
+    "name": "Cacao",
+    "precio": 10,
+    "imagen":"imagen/product4.png",
+    "tipe":2
+},
+{
+    "id":3,
+    "name": "Nibs",
+    "precio": 30,
+    "imagen":"imagen/product3.png",
+    "tipe":3
+},
+{
+    "id":1,
+    "name": "Ecoandino",
+    "precio": 15,
+    "imagen":"imagen/product1.png",
+    "tipe":4
+}
+]
